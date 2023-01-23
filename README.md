@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m looking for help 🤔 
 I am a freshly graduated full stack web developer with a passion for technology and new development trends. After graduating in web development, I gained solid experience in programming languages such as HTML/CSS, JavaScript, TypeScript, PHP, PostgreSQL, MySQL as well as in frameworks such as React.js, Bootstrap and Wordpress as CMS. I have also worked on several projects as a full stack developer, which allowed me to develop skills in app design, development and deployment.
-I am looking for a full stack web developer position in a company where I can apply my skills and expertise, while continuing to learn and grow to stay up to date in an ever-changing field.
+I am looking for a web developer position in a company where I can apply my skills and expertise, while continuing to learn and grow to stay up to date in an ever-changing field.
 
 <!--
 **mbkdev60/mbkdev60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
